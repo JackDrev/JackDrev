@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackDrev
+- 👋 Hi, I’m @Jack Drever
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently at university: BSc majoring in Data Science, I have a strong background in math and coding.
 - 📫 Reach me by email: jackdrever.work@gmail.com
